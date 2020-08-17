@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">P12 Quiz D1</string>
+    <string name="language">Preferred Language(s)</string>
+    <string name="malay">Malay</string>
+    <string name="chinese">Chinese</string>
+    <string name="english">English</string>
+
+    <!-- TODO: Question 2: Write the codes in strings.xml to include the spinner items for country -->
+
+    <string-array name ="myCountries">
+        <item>Please select</item>
+        <item>Indonesia</item>
+        <item>Malaysia</item>
+        <item>Singapore</item>
+    </string-array>
+</resources>
